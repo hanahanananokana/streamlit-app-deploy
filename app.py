@@ -70,6 +70,3 @@ elif page == "チャート":
 # フッター
 st.markdown("---")
 st.markdown("Made with ❤️ using Streamlit")
-
-pip freeze > requirements.txt
-
